@@ -1,0 +1,16 @@
+.box {
+    height: 800px;
+    width: 800px;
+    background-color: azure;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+   align-content: space-between;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
